@@ -30,10 +30,25 @@
 </div>
 
 ## 🩷 기능 소개
-**1. ChatGPT API를 이용한 집사와의 연애 상담**
+
 <img width="1440" alt="스크린샷 2024-04-25 오후 8 21 17" src="https://github.com/motmallineun-agassi/butler-BE/assets/141820077/7ebc5038-bd35-4ace-b76d-e4ac8cec5dfd">
-**2. AI 이미지 생성을 활용한 다양한 캐릭터들과의 연애 시뮬레이션**
-<img width="1440" alt="스크린샷 2024-04-25 오후 8 21 34" src="https://github.com/motmallineun-agassi/butler-BE/assets/141820077/8b4483e3-5e52-4134-bf5a-ff46a23a50b1">
+
+> **🌹  ChatGPT API를 이용한 집사와의 연애 상담**
+> * 모델에 System 프롬프트를 주어, '집사' 말투로 대화하도록 설정했습니다.
+> * 이전 대화의 맥락을 이해하고 대답하도록 만들기 위해, 세션별로 이전 메시지들을 저장하고 모델에게 이전 메시지를 함께 보내 이어지는 답장을 하도록 설정했습니다.
+> * Spring boot 프로젝트 위에 Python 코드를 임베딩해 사용했습니다.
+> * 집사의 캐릭터 설정과 관련한 모델 파인튜닝을 시도했습니다.
+
+<br>
+
+
+<img width="1440" alt="연애상담" src="https://github.com/motmallineun-agassi/butler-BE/assets/141820077/8b4483e3-5e52-4134-bf5a-ff46a23a50b1">
+
+
+> **🌹 AI 이미지 생성을 활용한 다양한 캐릭터들과의 연애 시뮬레이션**
+> * 호감도 시스템을 도입해 점수별로 다른 엔딩이 나오도록 스크립트를 구성했습니다.
+> * 기본 공략 캐릭터들을 모두 클리어하고 나면, 히든 캐릭터 '집사'가 열리도록 설정했습니다.
+> * 스크립트의 각 문장을 DB로 저장하고, 선택지에 따라 이동하도록 nextDialogueId 열을 주었습니다.
 
 
 ## 💞 기술 스택
