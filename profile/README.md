@@ -7,7 +7,7 @@
   <a href="https://docs.google.com/spreadsheets/d/1D39J3pw9b9NFe48Br3QKPXZR3h6diDHNKUnx1lXPah8/edit?usp=sharing">![Static Badge](https://img.shields.io/badge/%E2%9C%93%20%20API%20%EB%AA%85%EC%84%B8%EC%84%9C-%23ffc4d6?style=for-the-badge&logoColor=white)</a>
   <a href="https://www.figma.com/file/j1iCk8bZsu0qXe2PkmClaD/%EB%AA%BB%EB%A7%90%EB%A6%AC%EB%8A%94%EC%95%84%EA%B0%80%EC%94%A8%F0%9F%A9%B6?type=design&node-id=0%3A1&mode=design&t=CrIuGMoF0bFzwTdF-1">![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)</a>
 
-  <a href="">![Static Badge](https://img.shields.io/badge/%E2%99%A5%20%EB%AA%BB%EB%A7%90%EB%A6%AC%EB%8A%94%20%EC%95%84%EA%B0%80%EC%94%A8%20%E2%99%A5-%23ff5d8f?style=for-the-badge&logoColor=white)</a>
+  <a href="https://motmallineunagassi-draft.vercel.app/">![Static Badge](https://img.shields.io/badge/%E2%99%A5%20%EB%AA%BB%EB%A7%90%EB%A6%AC%EB%8A%94%20%EC%95%84%EA%B0%80%EC%94%A8%20%E2%99%A5-%23ff5d8f?style=for-the-badge&logoColor=white)</a>
   
 </div>
 
@@ -30,6 +30,11 @@
 </div>
 
 ## 🩷 기능 소개
+**1. ChatGPT API를 이용한 집사와의 연애 상담**
+<img width="1440" alt="스크린샷 2024-04-25 오후 8 21 17" src="https://github.com/motmallineun-agassi/butler-BE/assets/141820077/7ebc5038-bd35-4ace-b76d-e4ac8cec5dfd">
+**2. AI 이미지 생성을 활용한 다양한 캐릭터들과의 연애 시뮬레이션**
+<img width="1440" alt="스크린샷 2024-04-25 오후 8 21 34" src="https://github.com/motmallineun-agassi/butler-BE/assets/141820077/8b4483e3-5e52-4134-bf5a-ff46a23a50b1">
+
 
 ## 💞 기술 스택
 
