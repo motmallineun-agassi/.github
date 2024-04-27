@@ -31,6 +31,9 @@
 
 ## 🩷 기능 소개
 
+* ChatGPT API를 활용한 '연애 상담' 기능과 AI 이미지 생성을 이용한 '연애 수업' 기능이 있습니다.
+* 반응형으로 디자인을 적용하여 모바일에서도 의도한 디자인대로 보일 수 있도록 설계했습니다.
+
 <img width="1440" alt="스크린샷 2024-04-25 오후 8 21 17" src="https://github.com/motmallineun-agassi/butler-BE/assets/141820077/7ebc5038-bd35-4ace-b76d-e4ac8cec5dfd">
 
 > **🌹  ChatGPT API를 이용한 집사와의 연애 상담**
